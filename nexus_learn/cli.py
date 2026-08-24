@@ -113,6 +113,63 @@ def generate_online(count,seed):
         f"{len({(x.text,x.answer) for x in items})}"
     )
 
+@main.command("online-sync")
+@click.argument("source")
+@click.option("--epochs", default=6, type=int)
+@click.option("--lr", default=0.1, type=float)
+@click.option("--state-dir", default="state", type=click.Path())
+def online_sync(source, epochs, lr, state_dir):
+    """
+    Fetch mathematical experiences from SOURCE and attempt online learning.
+
+    SOURCE may be a local JSON file or an HTTP/HTTPS JSON endpoint.
+    Remote content is treated as data only.
+    """
+
+    from .online_sync import OnlineSync
+
+    click.echo("NEXUS-LEARN online experience acquisition")
+    click.echo(f"Source: {source}")
+
+    sync = OnlineSync(state_dir=state_dir)
+
+    result = sync.run(
+        source,
+        epochs=epochs,
+        lr=lr,
+    )
+
+    click.echo(
+        f"Trusted experiences: "
+        f"{result['trusted_examples']}"
+    )
+
+    click.echo(
+        f"Holdout before: "
+        f"{result['holdout_accuracy_before']:.1%}"
+    )
+
+    click.echo(
+        f"Holdout after:  "
+        f"{result['holdout_accuracy_after']:.1%}"
+    )
+
+    click.echo(
+        "Candidate: "
+        + ("PROMOTED" if result["promoted"] else "REJECTED")
+    )
+
+    click.echo(
+        f"Improvement: "
+        f"{result['improvement']:+.1%}"
+    )
+
+    click.echo(
+        "State: "
+        + ("SAVED" if result["promoted"] else "UNCHANGED")
+    )
+
+
 if __name__ == "__main__":
     main()
 
