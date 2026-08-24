@@ -1,4 +1,5 @@
 import click
+from pathlib import Path
 import numpy as np
 from . import __version__
 from .experiment import AutonomousExperiment
@@ -44,5 +45,74 @@ def autonomous(cycles):
     click.echo(f"Learning improvement:    {'POSITIVE' if r['final_hidden'] > r['initial_hidden'] else 'NONE'}")
 
 
+@main.command("online-learn")
+@click.argument("source")
+@click.option("--epochs", default=4, type=int)
+def online_learn(source, epochs):
+    from .online import load_source
+    from .online_experiment import OnlineLearningExperiment
+
+    click.echo("NEXUS-LEARN online experience learner")
+    click.echo(f"Source: {source}")
+
+    experiences = load_source(source)
+
+    result = OnlineLearningExperiment().learn(
+        experiences,
+        epochs=epochs,
+    )
+
+    click.echo(
+        f"Trusted experiences: "
+        f"{result['trusted_examples']}"
+    )
+
+    click.echo(
+        f"Holdout before: "
+        f"{result['holdout_accuracy_before']:.1%}"
+    )
+
+    click.echo(
+        f"Holdout after:  "
+        f"{result['holdout_accuracy_after']:.1%}"
+    )
+
+    click.echo(
+        "Candidate: "
+        + ("PROMOTED" if result["promoted"] else "REJECTED")
+    )
+
+    click.echo(
+        f"Improvement: "
+        f"{result['improvement']:+.1%}"
+    )
+
+
+
+@main.command("generate-online")
+@click.option("--count",default=1200,type=int)
+@click.option("--seed",default=424242,type=int)
+def generate_online(count,seed):
+    import json
+    from dataclasses import asdict
+    from .generator import generate_rich
+
+    items=generate_rich(count,seed,"online")
+    Path("examples").mkdir(exist_ok=True)
+
+    with open("examples/online_generated.json","w",encoding="utf-8") as f:
+        json.dump(
+            {"experiences":[asdict(x) for x in items]},
+            f,
+            indent=2
+        )
+
+    click.echo(f"Generated: {len(items)}")
+    click.echo(
+        f"Unique experiences: "
+        f"{len({(x.text,x.answer) for x in items})}"
+    )
+
 if __name__ == "__main__":
     main()
+

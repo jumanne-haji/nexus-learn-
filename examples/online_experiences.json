@@ -1,0 +1,10 @@
+{
+  "experiences": [
+    {"text": "log_2(8) = 3", "answer": 3},
+    {"text": "log_2(16) = 4", "answer": 4},
+    {"text": "log_3(27) = 3", "answer": 3},
+    {"text": "log_5(25) = 2", "answer": 2},
+    {"text": "2^? = 32", "answer": 5},
+    {"text": "5^? = 125", "answer": 3}
+  ]
+}

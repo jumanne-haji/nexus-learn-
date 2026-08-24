@@ -1,0 +1,6004 @@
+{
+  "experiences": [
+    {
+      "text": "log_53(2809) = 2",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "256 = 16^x; x = ?",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "log_5(x) = 2; x = ?",
+      "answer": 25.0,
+      "split": "online"
+    },
+    {
+      "text": "log_37(50653) = ?",
+      "answer": 3.0,
+      "split": "online"
+    },
+    {
+      "text": "log_38(54872) = 3",
+      "answer": 3.0,
+      "split": "online"
+    },
+    {
+      "text": "225 = 15^x; x = ?",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "log_41(41) = ?",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "logarithm base 95: 95 -> ?",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "log_9(x) = 1; x = ?",
+      "answer": 9.0,
+      "split": "online"
+    },
+    {
+      "text": "logarithm base 39: 59319 -> ?",
+      "answer": 3.0,
+      "split": "online"
+    },
+    {
+      "text": "1728 = 12^x; x = ?",
+      "answer": 3.0,
+      "split": "online"
+    },
+    {
+      "text": "log_74(74) = 1",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "Solve: log base 24 of 13824",
+      "answer": 3.0,
+      "split": "online"
+    },
+    {
+      "text": "Solve: log base 10 of 10000",
+      "answer": 4.0,
+      "split": "online"
+    },
+    {
+      "text": "10^? = 100000",
+      "answer": 5.0,
+      "split": "online"
+    },
+    {
+      "text": "32768 = 32^x; x = ?",
+      "answer": 3.0,
+      "split": "online"
+    },
+    {
+      "text": "log_5(3125) = ?",
+      "answer": 5.0,
+      "split": "online"
+    },
+    {
+      "text": "log_31(x) = 1; x = ?",
+      "answer": 31.0,
+      "split": "online"
+    },
+    {
+      "text": "53^? = 2809",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "Solve: log base 97 of 9409",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "Solve: log base 95 of 9025",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "576 = 24^x; x = ?",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "logarithm base 48: 48 -> ?",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "81^? = 6561",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "7^? = 343",
+      "answer": 3.0,
+      "split": "online"
+    },
+    {
+      "text": "Solve: log base 25 of 625",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "log_19(x) = 3; x = ?",
+      "answer": 6859.0,
+      "split": "online"
+    },
+    {
+      "text": "Solve: log base 75 of 75",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "10^? = 100",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "Solve: log base 32 of 32768",
+      "answer": 3.0,
+      "split": "online"
+    },
+    {
+      "text": "Find y: log_59(3481) = y",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "log_41(1681) = ?",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "logarithm base 43: 1849 -> ?",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "Solve: log base 63 of 63",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "log_86(7396) = 2",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "log_32(x) = 2; x = ?",
+      "answer": 1024.0,
+      "split": "online"
+    },
+    {
+      "text": "logarithm base 14: 38416 -> ?",
+      "answer": 4.0,
+      "split": "online"
+    },
+    {
+      "text": "78^? = 6084",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "Find y: log_46(97336) = y",
+      "answer": 3.0,
+      "split": "online"
+    },
+    {
+      "text": "log_99(x) = 1; x = ?",
+      "answer": 99.0,
+      "split": "online"
+    },
+    {
+      "text": "log_49(x) = 2; x = ?",
+      "answer": 2401.0,
+      "split": "online"
+    },
+    {
+      "text": "Find y: log_47(2209) = y",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "42 = 42^x; x = ?",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "4^? = 1024",
+      "answer": 5.0,
+      "split": "online"
+    },
+    {
+      "text": "Solve: log base 26 of 26",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "logarithm base 17: 289 -> ?",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "Find y: log_23(12167) = y",
+      "answer": 3.0,
+      "split": "online"
+    },
+    {
+      "text": "logarithm base 93: 93 -> ?",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "5^? = 625",
+      "answer": 4.0,
+      "split": "online"
+    },
+    {
+      "text": "log_100(100) = 1",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "log_9(6561) = ?",
+      "answer": 4.0,
+      "split": "online"
+    },
+    {
+      "text": "19 = 19^x; x = ?",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "Find y: log_27(27) = y",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "Find y: log_20(8000) = y",
+      "answer": 3.0,
+      "split": "online"
+    },
+    {
+      "text": "log_39(39) = ?",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "196 = 14^x; x = ?",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "log_10(x) = 3; x = ?",
+      "answer": 1000.0,
+      "split": "online"
+    },
+    {
+      "text": "logarithm base 52: 2704 -> ?",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "log_39(x) = 3; x = ?",
+      "answer": 59319.0,
+      "split": "online"
+    },
+    {
+      "text": "log_24(13824) = ?",
+      "answer": 3.0,
+      "split": "online"
+    },
+    {
+      "text": "76 = 76^x; x = ?",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "Find y: log_10(100000) = y",
+      "answer": 5.0,
+      "split": "online"
+    },
+    {
+      "text": "log_2(4) = 2",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "log_36(1296) = 2",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "log_20(20) = ?",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "log_11(11) = 1",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "log_38(38) = 1",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "87^? = 87",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "85184 = 44^x; x = ?",
+      "answer": 3.0,
+      "split": "online"
+    },
+    {
+      "text": "log_75(75) = 1",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "Solve: log base 82 of 6724",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "92^? = 92",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "Solve: log base 46 of 97336",
+      "answer": 3.0,
+      "split": "online"
+    },
+    {
+      "text": "log_88(88) = ?",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "log_8(4096) = 4",
+      "answer": 4.0,
+      "split": "online"
+    },
+    {
+      "text": "log_24(x) = 3; x = ?",
+      "answer": 13824.0,
+      "split": "online"
+    },
+    {
+      "text": "logarithm base 52: 52 -> ?",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "logarithm base 33: 33 -> ?",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "log_72(x) = 2; x = ?",
+      "answer": 5184.0,
+      "split": "online"
+    },
+    {
+      "text": "log_31(961) = 2",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "log_58(x) = 2; x = ?",
+      "answer": 3364.0,
+      "split": "online"
+    },
+    {
+      "text": "Solve: log base 85 of 85",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "log_78(78) = ?",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "Solve: log base 45 of 2025",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "log_26(26) = ?",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "log_6(1296) = 4",
+      "answer": 4.0,
+      "split": "online"
+    },
+    {
+      "text": "log_40(1600) = 2",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "log_5(625) = 4",
+      "answer": 4.0,
+      "split": "online"
+    },
+    {
+      "text": "Find y: log_90(90) = y",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "log_9(729) = ?",
+      "answer": 3.0,
+      "split": "online"
+    },
+    {
+      "text": "34^? = 1156",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "log_89(89) = ?",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "logarithm base 10: 10 -> ?",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "log_31(31) = ?",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "Find y: log_81(6561) = y",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "logarithm base 5: 125 -> ?",
+      "answer": 3.0,
+      "split": "online"
+    },
+    {
+      "text": "Find y: log_98(98) = y",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "log_53(2809) = ?",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "log_52(2704) = ?",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "logarithm base 27: 729 -> ?",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "logarithm base 5: 3125 -> ?",
+      "answer": 5.0,
+      "split": "online"
+    },
+    {
+      "text": "log_16(65536) = 4",
+      "answer": 4.0,
+      "split": "online"
+    },
+    {
+      "text": "log_43(x) = 3; x = ?",
+      "answer": 79507.0,
+      "split": "online"
+    },
+    {
+      "text": "log_20(20) = 1",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "Find y: log_44(1936) = y",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "33^? = 1089",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "log_93(x) = 1; x = ?",
+      "answer": 93.0,
+      "split": "online"
+    },
+    {
+      "text": "log_7(16807) = 5",
+      "answer": 5.0,
+      "split": "online"
+    },
+    {
+      "text": "8281 = 91^x; x = ?",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "logarithm base 40: 40 -> ?",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "3^? = 81",
+      "answer": 4.0,
+      "split": "online"
+    },
+    {
+      "text": "logarithm base 36: 36 -> ?",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "Solve: log base 41 of 1681",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "logarithm base 44: 1936 -> ?",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "1936 = 44^x; x = ?",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "Solve: log base 22 of 22",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "90 = 90^x; x = ?",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "log_44(x) = 1; x = ?",
+      "answer": 44.0,
+      "split": "online"
+    },
+    {
+      "text": "4096 = 8^x; x = ?",
+      "answer": 4.0,
+      "split": "online"
+    },
+    {
+      "text": "18^? = 18",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "20^? = 20",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "3600 = 60^x; x = ?",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "30 = 30^x; x = ?",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "Find y: log_5(5) = y",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "log_64(x) = 2; x = ?",
+      "answer": 4096.0,
+      "split": "online"
+    },
+    {
+      "text": "Solve: log base 52 of 2704",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "log_63(x) = 1; x = ?",
+      "answer": 63.0,
+      "split": "online"
+    },
+    {
+      "text": "Solve: log base 68 of 4624",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "Solve: log base 28 of 28",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "52^? = 2704",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "log_57(x) = 2; x = ?",
+      "answer": 3249.0,
+      "split": "online"
+    },
+    {
+      "text": "Solve: log base 50 of 2500",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "8 = 8^x; x = ?",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "log_89(x) = 1; x = ?",
+      "answer": 89.0,
+      "split": "online"
+    },
+    {
+      "text": "logarithm base 92: 8464 -> ?",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "57^? = 3249",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "Solve: log base 65 of 65",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "54 = 54^x; x = ?",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "243 = 3^x; x = ?",
+      "answer": 5.0,
+      "split": "online"
+    },
+    {
+      "text": "Solve: log base 22 of 484",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "log_92(92) = ?",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "216 = 6^x; x = ?",
+      "answer": 3.0,
+      "split": "online"
+    },
+    {
+      "text": "Find y: log_73(73) = y",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "Solve: log base 81 of 81",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "log_12(144) = 2",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "logarithm base 34: 39304 -> ?",
+      "answer": 3.0,
+      "split": "online"
+    },
+    {
+      "text": "log_61(3721) = ?",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "log_84(7056) = ?",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "logarithm base 60: 60 -> ?",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "2401 = 49^x; x = ?",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "log_100(x) = 2; x = ?",
+      "answer": 10000.0,
+      "split": "online"
+    },
+    {
+      "text": "logarithm base 41: 68921 -> ?",
+      "answer": 3.0,
+      "split": "online"
+    },
+    {
+      "text": "log_97(x) = 1; x = ?",
+      "answer": 97.0,
+      "split": "online"
+    },
+    {
+      "text": "log_45(2025) = 2",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "Solve: log base 79 of 6241",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "Solve: log base 8 of 512",
+      "answer": 3.0,
+      "split": "online"
+    },
+    {
+      "text": "log_65(x) = 1; x = ?",
+      "answer": 65.0,
+      "split": "online"
+    },
+    {
+      "text": "64 = 4^x; x = ?",
+      "answer": 3.0,
+      "split": "online"
+    },
+    {
+      "text": "log_70(4900) = 2",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "1600 = 40^x; x = ?",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "logarithm base 30: 900 -> ?",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "log_14(x) = 2; x = ?",
+      "answer": 196.0,
+      "split": "online"
+    },
+    {
+      "text": "Find y: log_75(5625) = y",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "logarithm base 47: 47 -> ?",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "log_35(42875) = 3",
+      "answer": 3.0,
+      "split": "online"
+    },
+    {
+      "text": "Find y: log_100(100) = y",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "log_25(15625) = 3",
+      "answer": 3.0,
+      "split": "online"
+    },
+    {
+      "text": "Find y: log_48(2304) = y",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "log_10(1000) = ?",
+      "answer": 3.0,
+      "split": "online"
+    },
+    {
+      "text": "Find y: log_16(4096) = y",
+      "answer": 3.0,
+      "split": "online"
+    },
+    {
+      "text": "log_45(45) = ?",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "log_38(38) = ?",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "Find y: log_62(62) = y",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "log_88(x) = 2; x = ?",
+      "answer": 7744.0,
+      "split": "online"
+    },
+    {
+      "text": "log_8(4096) = ?",
+      "answer": 4.0,
+      "split": "online"
+    },
+    {
+      "text": "log_56(56) = ?",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "Find y: log_66(4356) = y",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "logarithm base 88: 88 -> ?",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "13^? = 28561",
+      "answer": 4.0,
+      "split": "online"
+    },
+    {
+      "text": "Find y: log_2(16) = y",
+      "answer": 4.0,
+      "split": "online"
+    },
+    {
+      "text": "logarithm base 47: 2209 -> ?",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "logarithm base 100: 10000 -> ?",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "6^? = 7776",
+      "answer": 5.0,
+      "split": "online"
+    },
+    {
+      "text": "logarithm base 59: 3481 -> ?",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "log_76(5776) = ?",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "28561 = 13^x; x = ?",
+      "answer": 4.0,
+      "split": "online"
+    },
+    {
+      "text": "log_38(x) = 1; x = ?",
+      "answer": 38.0,
+      "split": "online"
+    },
+    {
+      "text": "Find y: log_32(32) = y",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "46^? = 46",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "39^? = 1521",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "logarithm base 17: 83521 -> ?",
+      "answer": 4.0,
+      "split": "online"
+    },
+    {
+      "text": "log_49(x) = 1; x = ?",
+      "answer": 49.0,
+      "split": "online"
+    },
+    {
+      "text": "Find y: log_24(13824) = y",
+      "answer": 3.0,
+      "split": "online"
+    },
+    {
+      "text": "Find y: log_84(7056) = y",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "7^? = 7",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "70^? = 4900",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "log_28(x) = 3; x = ?",
+      "answer": 21952.0,
+      "split": "online"
+    },
+    {
+      "text": "logarithm base 69: 4761 -> ?",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "Solve: log base 29 of 841",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "logarithm base 9: 6561 -> ?",
+      "answer": 4.0,
+      "split": "online"
+    },
+    {
+      "text": "Solve: log base 61 of 3721",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "Solve: log base 9 of 59049",
+      "answer": 5.0,
+      "split": "online"
+    },
+    {
+      "text": "log_14(x) = 1; x = ?",
+      "answer": 14.0,
+      "split": "online"
+    },
+    {
+      "text": "1444 = 38^x; x = ?",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "2209 = 47^x; x = ?",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "log_99(99) = 1",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "log_44(85184) = ?",
+      "answer": 3.0,
+      "split": "online"
+    },
+    {
+      "text": "logarithm base 14: 196 -> ?",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "log_24(x) = 2; x = ?",
+      "answer": 576.0,
+      "split": "online"
+    },
+    {
+      "text": "logarithm base 5: 25 -> ?",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "Find y: log_49(2401) = y",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "71^? = 5041",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "75^? = 75",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "Solve: log base 5 of 125",
+      "answer": 3.0,
+      "split": "online"
+    },
+    {
+      "text": "100 = 100^x; x = ?",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "log_99(x) = 2; x = ?",
+      "answer": 9801.0,
+      "split": "online"
+    },
+    {
+      "text": "4^? = 64",
+      "answer": 3.0,
+      "split": "online"
+    },
+    {
+      "text": "Solve: log base 3 of 27",
+      "answer": 3.0,
+      "split": "online"
+    },
+    {
+      "text": "log_30(27000) = ?",
+      "answer": 3.0,
+      "split": "online"
+    },
+    {
+      "text": "log_45(91125) = 3",
+      "answer": 3.0,
+      "split": "online"
+    },
+    {
+      "text": "81^? = 81",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "log_63(63) = ?",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "24389 = 29^x; x = ?",
+      "answer": 3.0,
+      "split": "online"
+    },
+    {
+      "text": "Find y: log_87(87) = y",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "18 = 18^x; x = ?",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "log_77(5929) = ?",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "log_4(256) = ?",
+      "answer": 4.0,
+      "split": "online"
+    },
+    {
+      "text": "log_9(x) = 2; x = ?",
+      "answer": 81.0,
+      "split": "online"
+    },
+    {
+      "text": "16 = 16^x; x = ?",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "log_27(729) = ?",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "log_55(3025) = ?",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "log_8(512) = ?",
+      "answer": 3.0,
+      "split": "online"
+    },
+    {
+      "text": "logarithm base 13: 28561 -> ?",
+      "answer": 4.0,
+      "split": "online"
+    },
+    {
+      "text": "32^? = 1024",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "Find y: log_72(72) = y",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "89^? = 7921",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "log_9(81) = 2",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "log_5(x) = 3; x = ?",
+      "answer": 125.0,
+      "split": "online"
+    },
+    {
+      "text": "676 = 26^x; x = ?",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "144 = 12^x; x = ?",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "log_45(x) = 3; x = ?",
+      "answer": 91125.0,
+      "split": "online"
+    },
+    {
+      "text": "log_40(64000) = ?",
+      "answer": 3.0,
+      "split": "online"
+    },
+    {
+      "text": "logarithm base 49: 2401 -> ?",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "log_81(x) = 1; x = ?",
+      "answer": 81.0,
+      "split": "online"
+    },
+    {
+      "text": "log_41(1681) = 2",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "log_51(51) = ?",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "log_62(x) = 1; x = ?",
+      "answer": 62.0,
+      "split": "online"
+    },
+    {
+      "text": "Solve: log base 4 of 16",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "Solve: log base 64 of 4096",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "8649 = 93^x; x = ?",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "Find y: log_51(2601) = y",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "25^? = 15625",
+      "answer": 3.0,
+      "split": "online"
+    },
+    {
+      "text": "Solve: log base 91 of 91",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "4^? = 256",
+      "answer": 4.0,
+      "split": "online"
+    },
+    {
+      "text": "23^? = 529",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "Solve: log base 44 of 1936",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "log_14(2744) = 3",
+      "answer": 3.0,
+      "split": "online"
+    },
+    {
+      "text": "Solve: log base 7 of 343",
+      "answer": 3.0,
+      "split": "online"
+    },
+    {
+      "text": "log_6(216) = 3",
+      "answer": 3.0,
+      "split": "online"
+    },
+    {
+      "text": "log_3(x) = 2; x = ?",
+      "answer": 9.0,
+      "split": "online"
+    },
+    {
+      "text": "121 = 11^x; x = ?",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "39304 = 34^x; x = ?",
+      "answer": 3.0,
+      "split": "online"
+    },
+    {
+      "text": "75 = 75^x; x = ?",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "log_30(30) = ?",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "log_30(x) = 3; x = ?",
+      "answer": 27000.0,
+      "split": "online"
+    },
+    {
+      "text": "log_27(19683) = 3",
+      "answer": 3.0,
+      "split": "online"
+    },
+    {
+      "text": "Solve: log base 97 of 97",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "logarithm base 3: 243 -> ?",
+      "answer": 5.0,
+      "split": "online"
+    },
+    {
+      "text": "logarithm base 3: 81 -> ?",
+      "answer": 4.0,
+      "split": "online"
+    },
+    {
+      "text": "log_36(x) = 1; x = ?",
+      "answer": 36.0,
+      "split": "online"
+    },
+    {
+      "text": "Find y: log_18(324) = y",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "Find y: log_68(4624) = y",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "log_10(100000) = ?",
+      "answer": 5.0,
+      "split": "online"
+    },
+    {
+      "text": "log_29(29) = ?",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "7776 = 6^x; x = ?",
+      "answer": 5.0,
+      "split": "online"
+    },
+    {
+      "text": "log_42(x) = 2; x = ?",
+      "answer": 1764.0,
+      "split": "online"
+    },
+    {
+      "text": "5^? = 25",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "Find y: log_58(3364) = y",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "Solve: log base 13 of 13",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "log_37(x) = 2; x = ?",
+      "answer": 1369.0,
+      "split": "online"
+    },
+    {
+      "text": "log_22(10648) = 3",
+      "answer": 3.0,
+      "split": "online"
+    },
+    {
+      "text": "logarithm base 28: 21952 -> ?",
+      "answer": 3.0,
+      "split": "online"
+    },
+    {
+      "text": "logarithm base 3: 3 -> ?",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "Solve: log base 68 of 68",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "logarithm base 14: 2744 -> ?",
+      "answer": 3.0,
+      "split": "online"
+    },
+    {
+      "text": "log_59(59) = ?",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "35 = 35^x; x = ?",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "log_7(x) = 3; x = ?",
+      "answer": 343.0,
+      "split": "online"
+    },
+    {
+      "text": "49 = 49^x; x = ?",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "Find y: log_29(841) = y",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "log_69(69) = ?",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "log_6(216) = ?",
+      "answer": 3.0,
+      "split": "online"
+    },
+    {
+      "text": "Solve: log base 2 of 2",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "log_8(64) = ?",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "3^? = 27",
+      "answer": 3.0,
+      "split": "online"
+    },
+    {
+      "text": "log_36(1296) = ?",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "4096 = 64^x; x = ?",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "log_10(10) = 1",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "log_4(64) = ?",
+      "answer": 3.0,
+      "split": "online"
+    },
+    {
+      "text": "log_2(32) = 5",
+      "answer": 5.0,
+      "split": "online"
+    },
+    {
+      "text": "8^? = 512",
+      "answer": 3.0,
+      "split": "online"
+    },
+    {
+      "text": "95^? = 95",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "log_4(16) = ?",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "log_23(12167) = 3",
+      "answer": 3.0,
+      "split": "online"
+    },
+    {
+      "text": "logarithm base 29: 29 -> ?",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "logarithm base 7: 7 -> ?",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "Solve: log base 92 of 8464",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "Solve: log base 54 of 2916",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "log_36(46656) = ?",
+      "answer": 3.0,
+      "split": "online"
+    },
+    {
+      "text": "17^? = 289",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "log_30(x) = 1; x = ?",
+      "answer": 30.0,
+      "split": "online"
+    },
+    {
+      "text": "logarithm base 53: 53 -> ?",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "26^? = 676",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "Solve: log base 43 of 79507",
+      "answer": 3.0,
+      "split": "online"
+    },
+    {
+      "text": "13^? = 169",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "16 = 2^x; x = ?",
+      "answer": 4.0,
+      "split": "online"
+    },
+    {
+      "text": "93^? = 8649",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "55^? = 3025",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "5929 = 77^x; x = ?",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "Find y: log_6(36) = y",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "log_31(29791) = 3",
+      "answer": 3.0,
+      "split": "online"
+    },
+    {
+      "text": "94 = 94^x; x = ?",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "Solve: log base 69 of 69",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "log_7(343) = 3",
+      "answer": 3.0,
+      "split": "online"
+    },
+    {
+      "text": "26^? = 17576",
+      "answer": 3.0,
+      "split": "online"
+    },
+    {
+      "text": "logarithm base 12: 144 -> ?",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "logarithm base 16: 16 -> ?",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "log_17(4913) = 3",
+      "answer": 3.0,
+      "split": "online"
+    },
+    {
+      "text": "log_14(x) = 3; x = ?",
+      "answer": 2744.0,
+      "split": "online"
+    },
+    {
+      "text": "24^? = 576",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "81 = 3^x; x = ?",
+      "answer": 4.0,
+      "split": "online"
+    },
+    {
+      "text": "log_81(81) = 1",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "Solve: log base 75 of 5625",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "logarithm base 8: 8 -> ?",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "100 = 10^x; x = ?",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "log_94(8836) = ?",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "logarithm base 6: 36 -> ?",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "82^? = 6724",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "Solve: log base 5 of 625",
+      "answer": 4.0,
+      "split": "online"
+    },
+    {
+      "text": "Find y: log_77(5929) = y",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "log_94(x) = 1; x = ?",
+      "answer": 94.0,
+      "split": "online"
+    },
+    {
+      "text": "log_18(5832) = ?",
+      "answer": 3.0,
+      "split": "online"
+    },
+    {
+      "text": "29 = 29^x; x = ?",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "Solve: log base 3 of 9",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "log_42(1764) = ?",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "log_7(x) = 2; x = ?",
+      "answer": 49.0,
+      "split": "online"
+    },
+    {
+      "text": "log_86(x) = 1; x = ?",
+      "answer": 86.0,
+      "split": "online"
+    },
+    {
+      "text": "log_11(14641) = ?",
+      "answer": 4.0,
+      "split": "online"
+    },
+    {
+      "text": "logarithm base 80: 6400 -> ?",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "log_7(7) = 1",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "Solve: log base 56 of 56",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "68 = 68^x; x = ?",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "Find y: log_20(20) = y",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "Solve: log base 59 of 3481",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "50653 = 37^x; x = ?",
+      "answer": 3.0,
+      "split": "online"
+    },
+    {
+      "text": "logarithm base 55: 55 -> ?",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "11^? = 1331",
+      "answer": 3.0,
+      "split": "online"
+    },
+    {
+      "text": "27 = 27^x; x = ?",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "Find y: log_25(25) = y",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "log_67(x) = 1; x = ?",
+      "answer": 67.0,
+      "split": "online"
+    },
+    {
+      "text": "log_28(21952) = 3",
+      "answer": 3.0,
+      "split": "online"
+    },
+    {
+      "text": "logarithm base 19: 19 -> ?",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "82^? = 82",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "78 = 78^x; x = ?",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "logarithm base 48: 2304 -> ?",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "Solve: log base 85 of 7225",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "log_59(59) = 1",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "log_10(x) = 2; x = ?",
+      "answer": 100.0,
+      "split": "online"
+    },
+    {
+      "text": "logarithm base 26: 676 -> ?",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "log_34(34) = 1",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "83^? = 6889",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "Find y: log_57(3249) = y",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "log_83(6889) = 2",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "Find y: log_3(9) = y",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "18^? = 5832",
+      "answer": 3.0,
+      "split": "online"
+    },
+    {
+      "text": "7^? = 16807",
+      "answer": 5.0,
+      "split": "online"
+    },
+    {
+      "text": "logarithm base 37: 37 -> ?",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "log_87(7569) = 2",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "Find y: log_30(900) = y",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "log_12(20736) = 4",
+      "answer": 4.0,
+      "split": "online"
+    },
+    {
+      "text": "logarithm base 18: 18 -> ?",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "log_57(57) = ?",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "log_100(10000) = 2",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "logarithm base 75: 75 -> ?",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "log_30(x) = 2; x = ?",
+      "answer": 900.0,
+      "split": "online"
+    },
+    {
+      "text": "Solve: log base 11 of 11",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "log_73(5329) = ?",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "Solve: log base 20 of 8000",
+      "answer": 3.0,
+      "split": "online"
+    },
+    {
+      "text": "logarithm base 84: 84 -> ?",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "log_22(22) = 1",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "Solve: log base 78 of 6084",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "Find y: log_50(2500) = y",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "logarithm base 4: 16 -> ?",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "log_54(54) = ?",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "Solve: log base 31 of 961",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "log_2(2) = 1",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "Find y: log_13(2197) = y",
+      "answer": 3.0,
+      "split": "online"
+    },
+    {
+      "text": "9^? = 729",
+      "answer": 3.0,
+      "split": "online"
+    },
+    {
+      "text": "Solve: log base 7 of 2401",
+      "answer": 4.0,
+      "split": "online"
+    },
+    {
+      "text": "Solve: log base 17 of 17",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "289 = 17^x; x = ?",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "log_22(484) = 2",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "15^? = 225",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "Solve: log base 10 of 10",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "Find y: log_56(3136) = y",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "log_83(83) = 1",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "Find y: log_83(6889) = y",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "log_44(1936) = ?",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "100^? = 100",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "log_81(6561) = 2",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "83 = 83^x; x = ?",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "log_2(32) = ?",
+      "answer": 5.0,
+      "split": "online"
+    },
+    {
+      "text": "log_59(x) = 1; x = ?",
+      "answer": 59.0,
+      "split": "online"
+    },
+    {
+      "text": "log_85(85) = 1",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "log_57(x) = 1; x = ?",
+      "answer": 57.0,
+      "split": "online"
+    },
+    {
+      "text": "38^? = 54872",
+      "answer": 3.0,
+      "split": "online"
+    },
+    {
+      "text": "Find y: log_21(441) = y",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "4 = 4^x; x = ?",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "log_16(4096) = 3",
+      "answer": 3.0,
+      "split": "online"
+    },
+    {
+      "text": "log_29(x) = 1; x = ?",
+      "answer": 29.0,
+      "split": "online"
+    },
+    {
+      "text": "12^? = 12",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "Solve: log base 3 of 3",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "Solve: log base 67 of 4489",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "logarithm base 18: 5832 -> ?",
+      "answer": 3.0,
+      "split": "online"
+    },
+    {
+      "text": "Find y: log_78(6084) = y",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "18^? = 324",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "Find y: log_14(14) = y",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "Find y: log_3(27) = y",
+      "answer": 3.0,
+      "split": "online"
+    },
+    {
+      "text": "log_42(74088) = ?",
+      "answer": 3.0,
+      "split": "online"
+    },
+    {
+      "text": "Find y: log_93(93) = y",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "log_28(784) = 2",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "log_66(66) = 1",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "45 = 45^x; x = ?",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "log_31(x) = 2; x = ?",
+      "answer": 961.0,
+      "split": "online"
+    },
+    {
+      "text": "62^? = 3844",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "log_17(83521) = ?",
+      "answer": 4.0,
+      "split": "online"
+    },
+    {
+      "text": "logarithm base 49: 49 -> ?",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "log_63(x) = 2; x = ?",
+      "answer": 3969.0,
+      "split": "online"
+    },
+    {
+      "text": "67^? = 67",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "Solve: log base 40 of 1600",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "logarithm base 58: 3364 -> ?",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "40 = 40^x; x = ?",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "logarithm base 21: 9261 -> ?",
+      "answer": 3.0,
+      "split": "online"
+    },
+    {
+      "text": "log_59(x) = 2; x = ?",
+      "answer": 3481.0,
+      "split": "online"
+    },
+    {
+      "text": "3^? = 9",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "log_86(7396) = ?",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "log_50(50) = ?",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "54^? = 2916",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "log_22(484) = ?",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "log_98(x) = 1; x = ?",
+      "answer": 98.0,
+      "split": "online"
+    },
+    {
+      "text": "log_98(x) = 2; x = ?",
+      "answer": 9604.0,
+      "split": "online"
+    },
+    {
+      "text": "80^? = 80",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "Find y: log_26(676) = y",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "log_66(66) = ?",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "log_16(256) = 2",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "log_3(x) = 3; x = ?",
+      "answer": 27.0,
+      "split": "online"
+    },
+    {
+      "text": "Find y: log_86(7396) = y",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "46656 = 36^x; x = ?",
+      "answer": 3.0,
+      "split": "online"
+    },
+    {
+      "text": "96 = 96^x; x = ?",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "Solve: log base 48 of 2304",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "Find y: log_5(25) = y",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "Solve: log base 33 of 33",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "Find y: log_99(99) = y",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "log_63(3969) = 2",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "5^? = 3125",
+      "answer": 5.0,
+      "split": "online"
+    },
+    {
+      "text": "97336 = 46^x; x = ?",
+      "answer": 3.0,
+      "split": "online"
+    },
+    {
+      "text": "Find y: log_71(5041) = y",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "77^? = 77",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "log_18(324) = 2",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "36 = 36^x; x = ?",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "7^? = 49",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "log_16(16) = 1",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "log_100(10000) = ?",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "361 = 19^x; x = ?",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "Solve: log base 82 of 82",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "log_43(79507) = 3",
+      "answer": 3.0,
+      "split": "online"
+    },
+    {
+      "text": "logarithm base 82: 82 -> ?",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "log_86(x) = 2; x = ?",
+      "answer": 7396.0,
+      "split": "online"
+    },
+    {
+      "text": "log_58(58) = 1",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "Solve: log base 36 of 36",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "log_17(17) = ?",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "log_14(196) = ?",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "Find y: log_2(2) = y",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "log_57(57) = 1",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "log_52(52) = 1",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "65^? = 4225",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "Solve: log base 59 of 59",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "3481 = 59^x; x = ?",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "7056 = 84^x; x = ?",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "12^? = 1728",
+      "answer": 3.0,
+      "split": "online"
+    },
+    {
+      "text": "log_22(x) = 2; x = ?",
+      "answer": 484.0,
+      "split": "online"
+    },
+    {
+      "text": "logarithm base 60: 3600 -> ?",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "log_6(7776) = 5",
+      "answer": 5.0,
+      "split": "online"
+    },
+    {
+      "text": "log_33(35937) = ?",
+      "answer": 3.0,
+      "split": "online"
+    },
+    {
+      "text": "log_70(x) = 2; x = ?",
+      "answer": 4900.0,
+      "split": "online"
+    },
+    {
+      "text": "log_18(x) = 2; x = ?",
+      "answer": 324.0,
+      "split": "online"
+    },
+    {
+      "text": "log_88(x) = 1; x = ?",
+      "answer": 88.0,
+      "split": "online"
+    },
+    {
+      "text": "log_40(x) = 3; x = ?",
+      "answer": 64000.0,
+      "split": "online"
+    },
+    {
+      "text": "33^? = 33",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "log_50(50) = 1",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "log_33(x) = 3; x = ?",
+      "answer": 35937.0,
+      "split": "online"
+    },
+    {
+      "text": "log_56(3136) = ?",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "log_15(x) = 3; x = ?",
+      "answer": 3375.0,
+      "split": "online"
+    },
+    {
+      "text": "log_14(14) = 1",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "log_15(50625) = ?",
+      "answer": 4.0,
+      "split": "online"
+    },
+    {
+      "text": "log_9(x) = 4; x = ?",
+      "answer": 6561.0,
+      "split": "online"
+    },
+    {
+      "text": "Find y: log_88(7744) = y",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "14^? = 196",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "Find y: log_92(8464) = y",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "44 = 44^x; x = ?",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "841 = 29^x; x = ?",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "log_85(x) = 2; x = ?",
+      "answer": 7225.0,
+      "split": "online"
+    },
+    {
+      "text": "logarithm base 86: 7396 -> ?",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "50^? = 2500",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "log_88(7744) = ?",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "logarithm base 45: 91125 -> ?",
+      "answer": 3.0,
+      "split": "online"
+    },
+    {
+      "text": "log_21(441) = 2",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "51 = 51^x; x = ?",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "Solve: log base 39 of 39",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "Solve: log base 37 of 50653",
+      "answer": 3.0,
+      "split": "online"
+    },
+    {
+      "text": "log_77(x) = 2; x = ?",
+      "answer": 5929.0,
+      "split": "online"
+    },
+    {
+      "text": "logarithm base 83: 6889 -> ?",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "logarithm base 45: 2025 -> ?",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "Find y: log_11(11) = y",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "Find y: log_60(60) = y",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "32768 = 8^x; x = ?",
+      "answer": 5.0,
+      "split": "online"
+    },
+    {
+      "text": "log_65(4225) = 2",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "Solve: log base 5 of 5",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "16^? = 4096",
+      "answer": 3.0,
+      "split": "online"
+    },
+    {
+      "text": "80 = 80^x; x = ?",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "log_49(2401) = 2",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "log_24(24) = 1",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "log_82(6724) = ?",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "logarithm base 23: 529 -> ?",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "729 = 27^x; x = ?",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "logarithm base 13: 169 -> ?",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "log_18(18) = ?",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "Solve: log base 45 of 91125",
+      "answer": 3.0,
+      "split": "online"
+    },
+    {
+      "text": "logarithm base 34: 34 -> ?",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "3969 = 63^x; x = ?",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "6^? = 6",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "log_98(98) = 1",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "logarithm base 9: 81 -> ?",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "log_33(1089) = 2",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "31 = 31^x; x = ?",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "log_87(x) = 1; x = ?",
+      "answer": 87.0,
+      "split": "online"
+    },
+    {
+      "text": "logarithm base 20: 20 -> ?",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "log_47(47) = ?",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "log_39(1521) = 2",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "logarithm base 23: 12167 -> ?",
+      "answer": 3.0,
+      "split": "online"
+    },
+    {
+      "text": "log_40(x) = 1; x = ?",
+      "answer": 40.0,
+      "split": "online"
+    },
+    {
+      "text": "3 = 3^x; x = ?",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "20^? = 8000",
+      "answer": 3.0,
+      "split": "online"
+    },
+    {
+      "text": "46^? = 97336",
+      "answer": 3.0,
+      "split": "online"
+    },
+    {
+      "text": "Solve: log base 98 of 9604",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "log_93(93) = ?",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "log_69(69) = 1",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "logarithm base 4: 256 -> ?",
+      "answer": 4.0,
+      "split": "online"
+    },
+    {
+      "text": "log_87(7569) = ?",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "logarithm base 91: 8281 -> ?",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "Find y: log_79(79) = y",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "Solve: log base 18 of 5832",
+      "answer": 3.0,
+      "split": "online"
+    },
+    {
+      "text": "log_82(82) = 1",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "log_22(22) = ?",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "34^? = 39304",
+      "answer": 3.0,
+      "split": "online"
+    },
+    {
+      "text": "73 = 73^x; x = ?",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "Solve: log base 77 of 77",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "log_9(729) = 3",
+      "answer": 3.0,
+      "split": "online"
+    },
+    {
+      "text": "256 = 4^x; x = ?",
+      "answer": 4.0,
+      "split": "online"
+    },
+    {
+      "text": "logarithm base 23: 23 -> ?",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "logarithm base 70: 4900 -> ?",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "logarithm base 65: 65 -> ?",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "log_12(x) = 1; x = ?",
+      "answer": 12.0,
+      "split": "online"
+    },
+    {
+      "text": "Find y: log_57(57) = y",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "log_10(10000) = ?",
+      "answer": 4.0,
+      "split": "online"
+    },
+    {
+      "text": "9 = 9^x; x = ?",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "Find y: log_82(82) = y",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "logarithm base 9: 729 -> ?",
+      "answer": 3.0,
+      "split": "online"
+    },
+    {
+      "text": "log_3(3) = ?",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "65 = 65^x; x = ?",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "40^? = 1600",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "log_42(74088) = 3",
+      "answer": 3.0,
+      "split": "online"
+    },
+    {
+      "text": "Find y: log_75(75) = y",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "logarithm base 8: 4096 -> ?",
+      "answer": 4.0,
+      "split": "online"
+    },
+    {
+      "text": "log_96(x) = 1; x = ?",
+      "answer": 96.0,
+      "split": "online"
+    },
+    {
+      "text": "2^? = 8",
+      "answer": 3.0,
+      "split": "online"
+    },
+    {
+      "text": "log_16(x) = 4; x = ?",
+      "answer": 65536.0,
+      "split": "online"
+    },
+    {
+      "text": "Find y: log_87(7569) = y",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "32^? = 32768",
+      "answer": 3.0,
+      "split": "online"
+    },
+    {
+      "text": "85^? = 7225",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "59049 = 9^x; x = ?",
+      "answer": 5.0,
+      "split": "online"
+    },
+    {
+      "text": "15 = 15^x; x = ?",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "Solve: log base 90 of 8100",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "Solve: log base 53 of 53",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "Find y: log_15(15) = y",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "Find y: log_8(4096) = y",
+      "answer": 4.0,
+      "split": "online"
+    },
+    {
+      "text": "log_7(343) = ?",
+      "answer": 3.0,
+      "split": "online"
+    },
+    {
+      "text": "9409 = 97^x; x = ?",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "log_56(x) = 1; x = ?",
+      "answer": 56.0,
+      "split": "online"
+    },
+    {
+      "text": "logarithm base 25: 25 -> ?",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "log_71(71) = ?",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "log_86(86) = ?",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "24^? = 24",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "37^? = 37",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "Find y: log_40(64000) = y",
+      "answer": 3.0,
+      "split": "online"
+    },
+    {
+      "text": "log_50(2500) = ?",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "log_34(39304) = ?",
+      "answer": 3.0,
+      "split": "online"
+    },
+    {
+      "text": "84^? = 7056",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "logarithm base 35: 35 -> ?",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "log_9(59049) = ?",
+      "answer": 5.0,
+      "split": "online"
+    },
+    {
+      "text": "16^? = 65536",
+      "answer": 4.0,
+      "split": "online"
+    },
+    {
+      "text": "log_17(x) = 4; x = ?",
+      "answer": 83521.0,
+      "split": "online"
+    },
+    {
+      "text": "30^? = 30",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "logarithm base 62: 3844 -> ?",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "log_66(x) = 2; x = ?",
+      "answer": 4356.0,
+      "split": "online"
+    },
+    {
+      "text": "Solve: log base 73 of 73",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "log_82(x) = 2; x = ?",
+      "answer": 6724.0,
+      "split": "online"
+    },
+    {
+      "text": "log_93(93) = 1",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "Find y: log_97(97) = y",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "logarithm base 25: 625 -> ?",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "Solve: log base 11 of 14641",
+      "answer": 4.0,
+      "split": "online"
+    },
+    {
+      "text": "Find y: log_81(81) = y",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "log_16(256) = ?",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "Find y: log_7(343) = y",
+      "answer": 3.0,
+      "split": "online"
+    },
+    {
+      "text": "log_16(65536) = ?",
+      "answer": 4.0,
+      "split": "online"
+    },
+    {
+      "text": "logarithm base 11: 14641 -> ?",
+      "answer": 4.0,
+      "split": "online"
+    },
+    {
+      "text": "log_79(6241) = 2",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "89 = 89^x; x = ?",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "log_85(7225) = 2",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "log_3(x) = 4; x = ?",
+      "answer": 81.0,
+      "split": "online"
+    },
+    {
+      "text": "77^? = 5929",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "46 = 46^x; x = ?",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "log_42(x) = 1; x = ?",
+      "answer": 42.0,
+      "split": "online"
+    },
+    {
+      "text": "log_70(70) = 1",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "2304 = 48^x; x = ?",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "logarithm base 28: 28 -> ?",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "log_68(4624) = 2",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "logarithm base 8: 32768 -> ?",
+      "answer": 5.0,
+      "split": "online"
+    },
+    {
+      "text": "log_29(24389) = 3",
+      "answer": 3.0,
+      "split": "online"
+    },
+    {
+      "text": "log_5(x) = 4; x = ?",
+      "answer": 625.0,
+      "split": "online"
+    },
+    {
+      "text": "log_2(16) = ?",
+      "answer": 4.0,
+      "split": "online"
+    },
+    {
+      "text": "Find y: log_30(30) = y",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "log_32(32) = ?",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "log_94(8836) = 2",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "64^? = 64",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "logarithm base 17: 4913 -> ?",
+      "answer": 3.0,
+      "split": "online"
+    },
+    {
+      "text": "9216 = 96^x; x = ?",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "log_4(4) = 1",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "41^? = 1681",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "logarithm base 18: 324 -> ?",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "log_43(1849) = ?",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "41^? = 41",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "log_28(x) = 1; x = ?",
+      "answer": 28.0,
+      "split": "online"
+    },
+    {
+      "text": "Solve: log base 80 of 80",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "81 = 81^x; x = ?",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "Solve: log base 96 of 96",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "log_13(28561) = 4",
+      "answer": 4.0,
+      "split": "online"
+    },
+    {
+      "text": "Find y: log_16(16) = y",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "log_64(x) = 1; x = ?",
+      "answer": 64.0,
+      "split": "online"
+    },
+    {
+      "text": "log_44(44) = ?",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "log_66(4356) = 2",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "Solve: log base 47 of 2209",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "Solve: log base 26 of 676",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "92^? = 8464",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "log_90(8100) = 2",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "log_15(3375) = 3",
+      "answer": 3.0,
+      "split": "online"
+    },
+    {
+      "text": "log_11(1331) = 3",
+      "answer": 3.0,
+      "split": "online"
+    },
+    {
+      "text": "logarithm base 32: 1024 -> ?",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "Find y: log_88(88) = y",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "logarithm base 87: 87 -> ?",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "Find y: log_77(77) = y",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "log_72(5184) = 2",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "Solve: log base 30 of 900",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "22 = 22^x; x = ?",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "729 = 9^x; x = ?",
+      "answer": 3.0,
+      "split": "online"
+    },
+    {
+      "text": "53^? = 53",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "Solve: log base 13 of 28561",
+      "answer": 4.0,
+      "split": "online"
+    },
+    {
+      "text": "79 = 79^x; x = ?",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "20736 = 12^x; x = ?",
+      "answer": 4.0,
+      "split": "online"
+    },
+    {
+      "text": "1000 = 10^x; x = ?",
+      "answer": 3.0,
+      "split": "online"
+    },
+    {
+      "text": "log_29(29) = 1",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "29^? = 841",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "22^? = 22",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "Find y: log_15(50625) = y",
+      "answer": 4.0,
+      "split": "online"
+    },
+    {
+      "text": "92 = 92^x; x = ?",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "21^? = 21",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "log_17(x) = 1; x = ?",
+      "answer": 17.0,
+      "split": "online"
+    },
+    {
+      "text": "Find y: log_90(8100) = y",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "log_32(1024) = 2",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "log_44(44) = 1",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "log_84(7056) = 2",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "Find y: log_78(78) = y",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "Solve: log base 62 of 62",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "75^? = 5625",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "log_78(x) = 2; x = ?",
+      "answer": 6084.0,
+      "split": "online"
+    },
+    {
+      "text": "21^? = 9261",
+      "answer": 3.0,
+      "split": "online"
+    },
+    {
+      "text": "log_74(5476) = 2",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "log_82(6724) = 2",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "log_21(9261) = 3",
+      "answer": 3.0,
+      "split": "online"
+    },
+    {
+      "text": "log_45(45) = 1",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "log_8(x) = 2; x = ?",
+      "answer": 64.0,
+      "split": "online"
+    },
+    {
+      "text": "logarithm base 53: 2809 -> ?",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "log_6(x) = 5; x = ?",
+      "answer": 7776.0,
+      "split": "online"
+    },
+    {
+      "text": "57 = 57^x; x = ?",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "16807 = 7^x; x = ?",
+      "answer": 5.0,
+      "split": "online"
+    },
+    {
+      "text": "log_22(10648) = ?",
+      "answer": 3.0,
+      "split": "online"
+    },
+    {
+      "text": "log_37(x) = 1; x = ?",
+      "answer": 37.0,
+      "split": "online"
+    },
+    {
+      "text": "Find y: log_42(42) = y",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "log_46(x) = 1; x = ?",
+      "answer": 46.0,
+      "split": "online"
+    },
+    {
+      "text": "Find y: log_6(7776) = y",
+      "answer": 5.0,
+      "split": "online"
+    },
+    {
+      "text": "log_48(48) = ?",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "83^? = 83",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "Find y: log_48(48) = y",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "log_74(74) = ?",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "logarithm base 50: 2500 -> ?",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "log_37(1369) = 2",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "Find y: log_24(576) = y",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "logarithm base 6: 1296 -> ?",
+      "answer": 4.0,
+      "split": "online"
+    },
+    {
+      "text": "6561 = 9^x; x = ?",
+      "answer": 4.0,
+      "split": "online"
+    },
+    {
+      "text": "log_20(400) = 2",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "29791 = 31^x; x = ?",
+      "answer": 3.0,
+      "split": "online"
+    },
+    {
+      "text": "45^? = 45",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "log_79(x) = 2; x = ?",
+      "answer": 6241.0,
+      "split": "online"
+    },
+    {
+      "text": "log_23(x) = 3; x = ?",
+      "answer": 12167.0,
+      "split": "online"
+    },
+    {
+      "text": "72^? = 72",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "43^? = 1849",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "Solve: log base 28 of 21952",
+      "answer": 3.0,
+      "split": "online"
+    },
+    {
+      "text": "14641 = 11^x; x = ?",
+      "answer": 4.0,
+      "split": "online"
+    },
+    {
+      "text": "Solve: log base 58 of 58",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "3364 = 58^x; x = ?",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "Solve: log base 88 of 88",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "Find y: log_14(2744) = y",
+      "answer": 3.0,
+      "split": "online"
+    },
+    {
+      "text": "Find y: log_35(42875) = y",
+      "answer": 3.0,
+      "split": "online"
+    },
+    {
+      "text": "logarithm base 61: 61 -> ?",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "43^? = 43",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "log_2(8) = 3",
+      "answer": 3.0,
+      "split": "online"
+    },
+    {
+      "text": "logarithm base 17: 17 -> ?",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "log_9(9) = 1",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "Solve: log base 9 of 9",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "90^? = 8100",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "41 = 41^x; x = ?",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "log_41(41) = 1",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "log_8(x) = 4; x = ?",
+      "answer": 4096.0,
+      "split": "online"
+    },
+    {
+      "text": "log_100(100) = ?",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "19^? = 19",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "log_14(x) = 4; x = ?",
+      "answer": 38416.0,
+      "split": "online"
+    },
+    {
+      "text": "27 = 3^x; x = ?",
+      "answer": 3.0,
+      "split": "online"
+    },
+    {
+      "text": "log_8(64) = 2",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "log_91(x) = 1; x = ?",
+      "answer": 91.0,
+      "split": "online"
+    },
+    {
+      "text": "Find y: log_34(39304) = y",
+      "answer": 3.0,
+      "split": "online"
+    },
+    {
+      "text": "97^? = 9409",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "Solve: log base 72 of 72",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "log_95(9025) = ?",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "logarithm base 96: 96 -> ?",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "12^? = 144",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "Solve: log base 10 of 100000",
+      "answer": 5.0,
+      "split": "online"
+    },
+    {
+      "text": "logarithm base 10: 100 -> ?",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "log_19(6859) = 3",
+      "answer": 3.0,
+      "split": "online"
+    },
+    {
+      "text": "4225 = 65^x; x = ?",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "log_74(x) = 2; x = ?",
+      "answer": 5476.0,
+      "split": "online"
+    },
+    {
+      "text": "Find y: log_89(89) = y",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "Solve: log base 9 of 729",
+      "answer": 3.0,
+      "split": "online"
+    },
+    {
+      "text": "log_50(2500) = 2",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "Find y: log_83(83) = y",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "log_2(x) = 2; x = ?",
+      "answer": 4.0,
+      "split": "online"
+    },
+    {
+      "text": "logarithm base 25: 15625 -> ?",
+      "answer": 3.0,
+      "split": "online"
+    },
+    {
+      "text": "log_75(5625) = 2",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "Find y: log_85(85) = y",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "Solve: log base 56 of 3136",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "log_13(2197) = ?",
+      "answer": 3.0,
+      "split": "online"
+    },
+    {
+      "text": "log_99(9801) = ?",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "98 = 98^x; x = ?",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "84^? = 84",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "Find y: log_37(1369) = y",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "Solve: log base 12 of 12",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "79^? = 79",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "log_94(94) = ?",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "Find y: log_8(8) = y",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "log_92(x) = 1; x = ?",
+      "answer": 92.0,
+      "split": "online"
+    },
+    {
+      "text": "Find y: log_12(1728) = y",
+      "answer": 3.0,
+      "split": "online"
+    },
+    {
+      "text": "logarithm base 97: 9409 -> ?",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "log_60(60) = ?",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "9604 = 98^x; x = ?",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "log_55(55) = ?",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "Find y: log_9(81) = y",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "log_43(1849) = 2",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "log_26(676) = ?",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "log_5(x) = 1; x = ?",
+      "answer": 5.0,
+      "split": "online"
+    },
+    {
+      "text": "96^? = 9216",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "log_29(x) = 2; x = ?",
+      "answer": 841.0,
+      "split": "online"
+    },
+    {
+      "text": "Find y: log_7(16807) = y",
+      "answer": 5.0,
+      "split": "online"
+    },
+    {
+      "text": "47^? = 47",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "5 = 5^x; x = ?",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "44^? = 1936",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "73^? = 73",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "Solve: log base 35 of 1225",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "logarithm base 22: 484 -> ?",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "log_3(9) = ?",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "30^? = 900",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "log_49(2401) = ?",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "Find y: log_26(17576) = y",
+      "answer": 3.0,
+      "split": "online"
+    },
+    {
+      "text": "11^? = 121",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "Find y: log_2(8) = y",
+      "answer": 3.0,
+      "split": "online"
+    },
+    {
+      "text": "logarithm base 93: 8649 -> ?",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "Solve: log base 69 of 4761",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "88^? = 7744",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "logarithm base 13: 13 -> ?",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "100^? = 10000",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "54^? = 54",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "Find y: log_2(32) = y",
+      "answer": 5.0,
+      "split": "online"
+    },
+    {
+      "text": "Find y: log_13(13) = y",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "log_45(2025) = ?",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "log_26(x) = 3; x = ?",
+      "answer": 17576.0,
+      "split": "online"
+    },
+    {
+      "text": "log_29(24389) = ?",
+      "answer": 3.0,
+      "split": "online"
+    },
+    {
+      "text": "34^? = 34",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "23 = 23^x; x = ?",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "log_70(x) = 1; x = ?",
+      "answer": 70.0,
+      "split": "online"
+    },
+    {
+      "text": "log_81(x) = 2; x = ?",
+      "answer": 6561.0,
+      "split": "online"
+    },
+    {
+      "text": "log_43(x) = 1; x = ?",
+      "answer": 43.0,
+      "split": "online"
+    },
+    {
+      "text": "Solve: log base 95 of 95",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "log_76(5776) = 2",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "logarithm base 89: 7921 -> ?",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "Solve: log base 27 of 27",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "log_42(42) = ?",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "log_12(20736) = ?",
+      "answer": 4.0,
+      "split": "online"
+    },
+    {
+      "text": "logarithm base 31: 961 -> ?",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "log_36(x) = 2; x = ?",
+      "answer": 1296.0,
+      "split": "online"
+    },
+    {
+      "text": "8 = 2^x; x = ?",
+      "answer": 3.0,
+      "split": "online"
+    },
+    {
+      "text": "71 = 71^x; x = ?",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "Solve: log base 94 of 8836",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "log_18(x) = 1; x = ?",
+      "answer": 18.0,
+      "split": "online"
+    },
+    {
+      "text": "logarithm base 16: 65536 -> ?",
+      "answer": 4.0,
+      "split": "online"
+    },
+    {
+      "text": "42^? = 74088",
+      "answer": 3.0,
+      "split": "online"
+    },
+    {
+      "text": "log_40(x) = 2; x = ?",
+      "answer": 1600.0,
+      "split": "online"
+    },
+    {
+      "text": "log_90(90) = 1",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "87 = 87^x; x = ?",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "log_68(68) = 1",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "12^? = 20736",
+      "answer": 4.0,
+      "split": "online"
+    },
+    {
+      "text": "log_62(3844) = ?",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "56 = 56^x; x = ?",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "logarithm base 44: 44 -> ?",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "8^? = 32768",
+      "answer": 5.0,
+      "split": "online"
+    },
+    {
+      "text": "log_32(32768) = ?",
+      "answer": 3.0,
+      "split": "online"
+    },
+    {
+      "text": "Solve: log base 2 of 8",
+      "answer": 3.0,
+      "split": "online"
+    },
+    {
+      "text": "28^? = 21952",
+      "answer": 3.0,
+      "split": "online"
+    },
+    {
+      "text": "log_44(85184) = 3",
+      "answer": 3.0,
+      "split": "online"
+    },
+    {
+      "text": "log_68(x) = 2; x = ?",
+      "answer": 4624.0,
+      "split": "online"
+    },
+    {
+      "text": "Find y: log_43(1849) = y",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "27^? = 729",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "86^? = 7396",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "log_13(13) = ?",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "log_12(144) = ?",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "25 = 5^x; x = ?",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "Solve: log base 39 of 59319",
+      "answer": 3.0,
+      "split": "online"
+    },
+    {
+      "text": "log_97(9409) = ?",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "38416 = 14^x; x = ?",
+      "answer": 4.0,
+      "split": "online"
+    },
+    {
+      "text": "log_80(x) = 2; x = ?",
+      "answer": 6400.0,
+      "split": "online"
+    },
+    {
+      "text": "Solve: log base 81 of 6561",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "Find y: log_19(361) = y",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "65536 = 16^x; x = ?",
+      "answer": 4.0,
+      "split": "online"
+    },
+    {
+      "text": "logarithm base 34: 1156 -> ?",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "77 = 77^x; x = ?",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "Solve: log base 79 of 79",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "log_54(2916) = ?",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "Solve: log base 100 of 10000",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "Find y: log_38(38) = y",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "logarithm base 4: 4 -> ?",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "90^? = 90",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "Find y: log_54(2916) = y",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "Solve: log base 61 of 61",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "log_85(x) = 1; x = ?",
+      "answer": 85.0,
+      "split": "online"
+    },
+    {
+      "text": "Solve: log base 38 of 38",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "31^? = 29791",
+      "answer": 3.0,
+      "split": "online"
+    },
+    {
+      "text": "logarithm base 91: 91 -> ?",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "29^? = 29",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "log_24(576) = 2",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "logarithm base 38: 54872 -> ?",
+      "answer": 3.0,
+      "split": "online"
+    },
+    {
+      "text": "log_61(x) = 1; x = ?",
+      "answer": 61.0,
+      "split": "online"
+    },
+    {
+      "text": "log_69(4761) = 2",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "Solve: log base 21 of 9261",
+      "answer": 3.0,
+      "split": "online"
+    },
+    {
+      "text": "log_68(4624) = ?",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "logarithm base 80: 80 -> ?",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "logarithm base 85: 85 -> ?",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "log_13(x) = 1; x = ?",
+      "answer": 13.0,
+      "split": "online"
+    },
+    {
+      "text": "log_63(3969) = ?",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "Find y: log_19(6859) = y",
+      "answer": 3.0,
+      "split": "online"
+    },
+    {
+      "text": "Solve: log base 16 of 256",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "55^? = 55",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "log_5(125) = ?",
+      "answer": 3.0,
+      "split": "online"
+    },
+    {
+      "text": "Find y: log_35(35) = y",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "Solve: log base 51 of 51",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "Solve: log base 30 of 27000",
+      "answer": 3.0,
+      "split": "online"
+    },
+    {
+      "text": "logarithm base 97: 97 -> ?",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "59^? = 59",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "log_21(x) = 1; x = ?",
+      "answer": 21.0,
+      "split": "online"
+    },
+    {
+      "text": "log_37(37) = ?",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "log_96(9216) = ?",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "log_9(59049) = 5",
+      "answer": 5.0,
+      "split": "online"
+    },
+    {
+      "text": "78^? = 78",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "Find y: log_10(100) = y",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "Find y: log_23(529) = y",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "Solve: log base 64 of 64",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "logarithm base 27: 19683 -> ?",
+      "answer": 3.0,
+      "split": "online"
+    },
+    {
+      "text": "Find y: log_60(3600) = y",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "Find y: log_14(38416) = y",
+      "answer": 4.0,
+      "split": "online"
+    },
+    {
+      "text": "74088 = 42^x; x = ?",
+      "answer": 3.0,
+      "split": "online"
+    },
+    {
+      "text": "Solve: log base 18 of 18",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "log_77(77) = 1",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "log_56(3136) = 2",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "Find y: log_45(91125) = y",
+      "answer": 3.0,
+      "split": "online"
+    },
+    {
+      "text": "logarithm base 58: 58 -> ?",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "8100 = 90^x; x = ?",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "log_46(x) = 2; x = ?",
+      "answer": 2116.0,
+      "split": "online"
+    },
+    {
+      "text": "Find y: log_74(5476) = y",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "log_20(x) = 2; x = ?",
+      "answer": 400.0,
+      "split": "online"
+    },
+    {
+      "text": "85^? = 85",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "Find y: log_19(19) = y",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "Find y: log_9(729) = y",
+      "answer": 3.0,
+      "split": "online"
+    },
+    {
+      "text": "log_13(2197) = 3",
+      "answer": 3.0,
+      "split": "online"
+    },
+    {
+      "text": "Find y: log_99(9801) = y",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "7744 = 88^x; x = ?",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "log_91(8281) = ?",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "log_11(14641) = 4",
+      "answer": 4.0,
+      "split": "online"
+    },
+    {
+      "text": "Find y: log_3(3) = y",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "log_27(729) = 2",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "log_47(x) = 2; x = ?",
+      "answer": 2209.0,
+      "split": "online"
+    },
+    {
+      "text": "43 = 43^x; x = ?",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "Solve: log base 34 of 34",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "Find y: log_49(49) = y",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "Find y: log_31(961) = y",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "Solve: log base 23 of 23",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "88 = 88^x; x = ?",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "log_72(72) = ?",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "38 = 38^x; x = ?",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "logarithm base 66: 4356 -> ?",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "log_23(529) = 2",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "Find y: log_29(24389) = y",
+      "answer": 3.0,
+      "split": "online"
+    },
+    {
+      "text": "log_85(7225) = ?",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "logarithm base 14: 14 -> ?",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "14 = 14^x; x = ?",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "log_47(x) = 1; x = ?",
+      "answer": 47.0,
+      "split": "online"
+    },
+    {
+      "text": "Solve: log base 86 of 7396",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "10648 = 22^x; x = ?",
+      "answer": 3.0,
+      "split": "online"
+    },
+    {
+      "text": "logarithm base 76: 5776 -> ?",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "log_8(8) = ?",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "1296 = 36^x; x = ?",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "log_44(1936) = 2",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "Find y: log_12(12) = y",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "log_11(11) = ?",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "log_12(1728) = ?",
+      "answer": 3.0,
+      "split": "online"
+    },
+    {
+      "text": "log_54(2916) = 2",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "log_92(92) = 1",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "Find y: log_53(2809) = y",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "1849 = 43^x; x = ?",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "log_23(23) = 1",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "logarithm base 50: 50 -> ?",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "Solve: log base 34 of 39304",
+      "answer": 3.0,
+      "split": "online"
+    },
+    {
+      "text": "Solve: log base 26 of 17576",
+      "answer": 3.0,
+      "split": "online"
+    },
+    {
+      "text": "logarithm base 12: 1728 -> ?",
+      "answer": 3.0,
+      "split": "online"
+    },
+    {
+      "text": "log_13(x) = 3; x = ?",
+      "answer": 2197.0,
+      "split": "online"
+    },
+    {
+      "text": "log_34(1156) = 2",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "86^? = 86",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "log_15(50625) = 4",
+      "answer": 4.0,
+      "split": "online"
+    },
+    {
+      "text": "58^? = 58",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "50^? = 50",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "log_95(95) = 1",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "log_26(17576) = ?",
+      "answer": 3.0,
+      "split": "online"
+    },
+    {
+      "text": "log_44(x) = 3; x = ?",
+      "answer": 85184.0,
+      "split": "online"
+    },
+    {
+      "text": "Solve: log base 36 of 46656",
+      "answer": 3.0,
+      "split": "online"
+    },
+    {
+      "text": "66 = 66^x; x = ?",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "log_36(x) = 3; x = ?",
+      "answer": 46656.0,
+      "split": "online"
+    },
+    {
+      "text": "logarithm base 86: 86 -> ?",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "Solve: log base 35 of 42875",
+      "answer": 3.0,
+      "split": "online"
+    },
+    {
+      "text": "47^? = 2209",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "Solve: log base 23 of 12167",
+      "answer": 3.0,
+      "split": "online"
+    },
+    {
+      "text": "logarithm base 7: 16807 -> ?",
+      "answer": 5.0,
+      "split": "online"
+    },
+    {
+      "text": "61 = 61^x; x = ?",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "Find y: log_91(91) = y",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "logarithm base 21: 441 -> ?",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "6889 = 83^x; x = ?",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "log_20(400) = ?",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "log_14(2744) = ?",
+      "answer": 3.0,
+      "split": "online"
+    },
+    {
+      "text": "6241 = 79^x; x = ?",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "95 = 95^x; x = ?",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "logarithm base 35: 1225 -> ?",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "7396 = 86^x; x = ?",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "log_80(x) = 1; x = ?",
+      "answer": 80.0,
+      "split": "online"
+    },
+    {
+      "text": "Solve: log base 21 of 441",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "51^? = 2601",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "log_47(47) = 1",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "log_7(49) = 2",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "log_49(49) = ?",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "log_97(x) = 2; x = ?",
+      "answer": 9409.0,
+      "split": "online"
+    },
+    {
+      "text": "log_25(25) = ?",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "logarithm base 73: 5329 -> ?",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "89^? = 89",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "Solve: log base 17 of 289",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "logarithm base 20: 400 -> ?",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "log_65(x) = 2; x = ?",
+      "answer": 4225.0,
+      "split": "online"
+    },
+    {
+      "text": "100000 = 10^x; x = ?",
+      "answer": 5.0,
+      "split": "online"
+    },
+    {
+      "text": "log_27(x) = 2; x = ?",
+      "answer": 729.0,
+      "split": "online"
+    },
+    {
+      "text": "log_15(15) = 1",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "Find y: log_74(74) = y",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "log_60(3600) = ?",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "log_82(82) = ?",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "log_2(x) = 4; x = ?",
+      "answer": 16.0,
+      "split": "online"
+    },
+    {
+      "text": "2744 = 14^x; x = ?",
+      "answer": 3.0,
+      "split": "online"
+    },
+    {
+      "text": "10000 = 10^x; x = ?",
+      "answer": 4.0,
+      "split": "online"
+    },
+    {
+      "text": "Find y: log_76(5776) = y",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "Solve: log base 6 of 216",
+      "answer": 3.0,
+      "split": "online"
+    },
+    {
+      "text": "Find y: log_33(1089) = y",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "15625 = 25^x; x = ?",
+      "answer": 3.0,
+      "split": "online"
+    },
+    {
+      "text": "Find y: log_31(31) = y",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "logarithm base 26: 26 -> ?",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "log_24(13824) = 3",
+      "answer": 3.0,
+      "split": "online"
+    },
+    {
+      "text": "Find y: log_95(9025) = y",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "Solve: log base 74 of 74",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "log_26(x) = 1; x = ?",
+      "answer": 26.0,
+      "split": "online"
+    },
+    {
+      "text": "log_76(x) = 1; x = ?",
+      "answer": 76.0,
+      "split": "online"
+    },
+    {
+      "text": "66^? = 4356",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "log_89(7921) = 2",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "logarithm base 12: 12 -> ?",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "1225 = 35^x; x = ?",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "logarithm base 41: 1681 -> ?",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "Solve: log base 87 of 7569",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "log_97(97) = 1",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "8836 = 94^x; x = ?",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "log_3(27) = ?",
+      "answer": 3.0,
+      "split": "online"
+    },
+    {
+      "text": "log_78(6084) = 2",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "logarithm base 65: 4225 -> ?",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "Solve: log base 12 of 1728",
+      "answer": 3.0,
+      "split": "online"
+    },
+    {
+      "text": "log_15(225) = 2",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "log_8(8) = 1",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "log_77(77) = ?",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "36 = 6^x; x = ?",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "log_29(841) = ?",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "log_80(80) = 1",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "log_90(90) = ?",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "Find y: log_25(625) = y",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "5476 = 74^x; x = ?",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "logarithm base 99: 99 -> ?",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "log_91(x) = 2; x = ?",
+      "answer": 8281.0,
+      "split": "online"
+    },
+    {
+      "text": "91 = 91^x; x = ?",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "Solve: log base 12 of 144",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "Find y: log_97(9409) = y",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "log_39(1521) = ?",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "log_64(64) = ?",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "Solve: log base 66 of 4356",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "Find y: log_64(4096) = y",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "Find y: log_29(29) = y",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "Find y: log_65(4225) = y",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "log_2(16) = 4",
+      "answer": 4.0,
+      "split": "online"
+    },
+    {
+      "text": "Find y: log_89(7921) = y",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "log_81(6561) = ?",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "50625 = 15^x; x = ?",
+      "answer": 4.0,
+      "split": "online"
+    },
+    {
+      "text": "68^? = 4624",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "log_87(x) = 2; x = ?",
+      "answer": 7569.0,
+      "split": "online"
+    },
+    {
+      "text": "Find y: log_8(64) = y",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "Find y: log_69(69) = y",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "log_12(1728) = 3",
+      "answer": 3.0,
+      "split": "online"
+    },
+    {
+      "text": "log_76(76) = ?",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "log_48(x) = 1; x = ?",
+      "answer": 48.0,
+      "split": "online"
+    },
+    {
+      "text": "Find y: log_14(196) = y",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "logarithm base 32: 32768 -> ?",
+      "answer": 3.0,
+      "split": "online"
+    },
+    {
+      "text": "log_48(48) = 1",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "70^? = 70",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "36^? = 1296",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "Solve: log base 10 of 1000",
+      "answer": 3.0,
+      "split": "online"
+    },
+    {
+      "text": "log_43(43) = ?",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "logarithm base 78: 78 -> ?",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "log_30(900) = 2",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "log_68(x) = 1; x = ?",
+      "answer": 68.0,
+      "split": "online"
+    },
+    {
+      "text": "log_10(x) = 5; x = ?",
+      "answer": 100000.0,
+      "split": "online"
+    },
+    {
+      "text": "log_82(x) = 1; x = ?",
+      "answer": 82.0,
+      "split": "online"
+    },
+    {
+      "text": "log_12(12) = 1",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "69^? = 4761",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "logarithm base 15: 225 -> ?",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "Solve: log base 44 of 85184",
+      "answer": 3.0,
+      "split": "online"
+    },
+    {
+      "text": "Solve: log base 10 of 100",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "log_26(x) = 2; x = ?",
+      "answer": 676.0,
+      "split": "online"
+    },
+    {
+      "text": "4900 = 70^x; x = ?",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "Solve: log base 15 of 50625",
+      "answer": 4.0,
+      "split": "online"
+    },
+    {
+      "text": "25^? = 625",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "logarithm base 10: 10000 -> ?",
+      "answer": 4.0,
+      "split": "online"
+    },
+    {
+      "text": "11^? = 11",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "Solve: log base 2 of 32",
+      "answer": 5.0,
+      "split": "online"
+    },
+    {
+      "text": "logarithm base 6: 7776 -> ?",
+      "answer": 5.0,
+      "split": "online"
+    },
+    {
+      "text": "Solve: log base 40 of 40",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "log_28(28) = ?",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "32^? = 32",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "log_55(x) = 2; x = ?",
+      "answer": 3025.0,
+      "split": "online"
+    },
+    {
+      "text": "logarithm base 72: 5184 -> ?",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "Find y: log_39(59319) = y",
+      "answer": 3.0,
+      "split": "online"
+    },
+    {
+      "text": "log_70(70) = ?",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "log_17(x) = 3; x = ?",
+      "answer": 4913.0,
+      "split": "online"
+    },
+    {
+      "text": "48^? = 48",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "Find y: log_64(64) = y",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "8^? = 8",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "log_76(x) = 2; x = ?",
+      "answer": 5776.0,
+      "split": "online"
+    },
+    {
+      "text": "5776 = 76^x; x = ?",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "11 = 11^x; x = ?",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "log_32(x) = 1; x = ?",
+      "answer": 32.0,
+      "split": "online"
+    },
+    {
+      "text": "Solve: log base 13 of 169",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "Solve: log base 42 of 42",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "3^? = 243",
+      "answer": 5.0,
+      "split": "online"
+    },
+    {
+      "text": "94^? = 8836",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "Find y: log_7(49) = y",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "1156 = 34^x; x = ?",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "512 = 8^x; x = ?",
+      "answer": 3.0,
+      "split": "online"
+    },
+    {
+      "text": "logarithm base 10: 100000 -> ?",
+      "answer": 5.0,
+      "split": "online"
+    },
+    {
+      "text": "log_87(87) = 1",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "21952 = 28^x; x = ?",
+      "answer": 3.0,
+      "split": "online"
+    },
+    {
+      "text": "log_10(100000) = 5",
+      "answer": 5.0,
+      "split": "online"
+    },
+    {
+      "text": "log_37(1369) = ?",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "2116 = 46^x; x = ?",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "Solve: log base 44 of 44",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "Find y: log_18(5832) = y",
+      "answer": 3.0,
+      "split": "online"
+    },
+    {
+      "text": "log_6(7776) = ?",
+      "answer": 5.0,
+      "split": "online"
+    },
+    {
+      "text": "log_34(x) = 3; x = ?",
+      "answer": 39304.0,
+      "split": "online"
+    },
+    {
+      "text": "24 = 24^x; x = ?",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "22^? = 10648",
+      "answer": 3.0,
+      "split": "online"
+    },
+    {
+      "text": "Find y: log_35(1225) = y",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "27^? = 19683",
+      "answer": 3.0,
+      "split": "online"
+    },
+    {
+      "text": "log_46(x) = 3; x = ?",
+      "answer": 97336.0,
+      "split": "online"
+    },
+    {
+      "text": "log_3(x) = 1; x = ?",
+      "answer": 3.0,
+      "split": "online"
+    },
+    {
+      "text": "log_11(1331) = ?",
+      "answer": 3.0,
+      "split": "online"
+    },
+    {
+      "text": "Find y: log_20(400) = y",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "1024 = 4^x; x = ?",
+      "answer": 5.0,
+      "split": "online"
+    },
+    {
+      "text": "49^? = 49",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "logarithm base 2: 8 -> ?",
+      "answer": 3.0,
+      "split": "online"
+    },
+    {
+      "text": "log_93(8649) = ?",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "log_7(x) = 5; x = ?",
+      "answer": 16807.0,
+      "split": "online"
+    },
+    {
+      "text": "Solve: log base 29 of 29",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "log_54(x) = 2; x = ?",
+      "answer": 2916.0,
+      "split": "online"
+    },
+    {
+      "text": "log_40(1600) = ?",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "2916 = 54^x; x = ?",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "Find y: log_61(3721) = y",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "log_3(243) = ?",
+      "answer": 5.0,
+      "split": "online"
+    },
+    {
+      "text": "log_35(x) = 3; x = ?",
+      "answer": 42875.0,
+      "split": "online"
+    },
+    {
+      "text": "log_24(24) = ?",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "logarithm base 38: 1444 -> ?",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "Solve: log base 87 of 87",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "2^? = 4",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "logarithm base 10: 1000 -> ?",
+      "answer": 3.0,
+      "split": "online"
+    },
+    {
+      "text": "Solve: log base 12 of 20736",
+      "answer": 4.0,
+      "split": "online"
+    },
+    {
+      "text": "log_41(68921) = ?",
+      "answer": 3.0,
+      "split": "online"
+    },
+    {
+      "text": "log_5(625) = ?",
+      "answer": 4.0,
+      "split": "online"
+    },
+    {
+      "text": "60 = 60^x; x = ?",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "log_41(x) = 1; x = ?",
+      "answer": 41.0,
+      "split": "online"
+    },
+    {
+      "text": "6^? = 36",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "17^? = 4913",
+      "answer": 3.0,
+      "split": "online"
+    },
+    {
+      "text": "log_5(25) = 2",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "log_7(16807) = ?",
+      "answer": 5.0,
+      "split": "online"
+    },
+    {
+      "text": "log_43(43) = 1",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "logarithm base 71: 5041 -> ?",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "Solve: log base 17 of 83521",
+      "answer": 4.0,
+      "split": "online"
+    },
+    {
+      "text": "logarithm base 16: 4096 -> ?",
+      "answer": 3.0,
+      "split": "online"
+    },
+    {
+      "text": "logarithm base 90: 90 -> ?",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "Solve: log base 8 of 64",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "log_37(50653) = 3",
+      "answer": 3.0,
+      "split": "online"
+    },
+    {
+      "text": "log_45(x) = 2; x = ?",
+      "answer": 2025.0,
+      "split": "online"
+    },
+    {
+      "text": "log_5(x) = 5; x = ?",
+      "answer": 3125.0,
+      "split": "online"
+    },
+    {
+      "text": "12 = 12^x; x = ?",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "Find y: log_94(8836) = y",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "52^? = 52",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "log_18(x) = 3; x = ?",
+      "answer": 5832.0,
+      "split": "online"
+    },
+    {
+      "text": "Find y: log_4(4) = y",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "3025 = 55^x; x = ?",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "log_40(64000) = 3",
+      "answer": 3.0,
+      "split": "online"
+    },
+    {
+      "text": "Solve: log base 70 of 4900",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "logarithm base 39: 1521 -> ?",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "log_63(63) = 1",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "log_8(x) = 1; x = ?",
+      "answer": 8.0,
+      "split": "online"
+    },
+    {
+      "text": "logarithm base 30: 30 -> ?",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "38^? = 38",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "Find y: log_66(66) = y",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "logarithm base 63: 63 -> ?",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "log_51(x) = 1; x = ?",
+      "answer": 51.0,
+      "split": "online"
+    },
+    {
+      "text": "37 = 37^x; x = ?",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "Solve: log base 84 of 84",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "log_33(x) = 2; x = ?",
+      "answer": 1089.0,
+      "split": "online"
+    },
+    {
+      "text": "log_3(3) = 1",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "Find y: log_9(6561) = y",
+      "answer": 4.0,
+      "split": "online"
+    },
+    {
+      "text": "log_2(2) = ?",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "log_47(2209) = 2",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "log_21(x) = 2; x = ?",
+      "answer": 441.0,
+      "split": "online"
+    },
+    {
+      "text": "log_75(75) = ?",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "Solve: log base 4 of 1024",
+      "answer": 5.0,
+      "split": "online"
+    },
+    {
+      "text": "10^? = 10",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "log_36(36) = ?",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "logarithm base 51: 51 -> ?",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "log_26(676) = 2",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "35937 = 33^x; x = ?",
+      "answer": 3.0,
+      "split": "online"
+    },
+    {
+      "text": "logarithm base 54: 2916 -> ?",
+      "answer": 2.0,
+      "split": "online"
+    },
+    {
+      "text": "log_56(x) = 2; x = ?",
+      "answer": 3136.0,
+      "split": "online"
+    },
+    {
+      "text": "Find y: log_47(47) = y",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "Find y: log_7(7) = y",
+      "answer": 1.0,
+      "split": "online"
+    },
+    {
+      "text": "log_12(x) = 4; x = ?",
+      "answer": 20736.0,
+      "split": "online"
+    },
+    {
+      "text": "Find y: log_22(10648) = y",
+      "answer": 3.0,
+      "split": "online"
+    },
+    {
+      "text": "log_7(49) = ?",
+      "answer": 2.0,
+      "split": "online"
+    }
+  ]
+}
